@@ -1,3 +1,4 @@
+
 # NeuroStartUpLab
 
 Мы на столько крутые, что уже успели поработать со следующими компаниями:
@@ -18,11 +19,10 @@ css
 
 .selector {
 
-&nbsp; font-family: "Awesome", Arial, sans-serif;
+  font-family: "Awesome", Arial, sans-serif;
 
-&nbsp; color: red;
+  color: red;
 
 }
 
-
-
+Добавлен текст по новой функции Early Order
